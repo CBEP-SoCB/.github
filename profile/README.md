@@ -23,7 +23,7 @@ analyses, is available for review upon request.
 
 ## Repository Contents
 <a name="Contents"></a>
-## State of Casco Bay 2020
+## State of Casco Bay 2020/2021
 The 2020/2021 State of Casco Bay Report is structured into multiple Chapters.
 Each chapter is based on one to several data sources.  The Github
 repositories are built around the data sources (with some variation).
