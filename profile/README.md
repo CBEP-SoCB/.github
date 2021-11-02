@@ -36,10 +36,10 @@ repositories.
 	*  Land Use  
 *  A3	Stormwater  
     *  Ten years of water quality monitoting data from Long Creek, 
-	  provided by the Long Creek Watershed Management District. .......... [LCWMD_Monitoring](https://github.com/ccb60/LCWMD_Monitoring)
+	  provided by the Long Creek Watershed Management District. .......... [LCWMD_Monitoring](https://github.com/CBEP-SoCB/LCWMD_Monitoring_sum)
     *  Geospatial data on locations of areas formally included in the
        "Municipal Seperate Storm Sewer System" or MS4 program. .......... 
-	   [MS4-Regulated_Areas](https://github.com/ccb60/MS4-Regulated_Areas)  
+	   [MS4-Regulated_Areas](https://github.com/CBEP-SoCB/MS4-Regulated_Areas_sum)  
 *  A4	Combined Sewer Overflows  
     *  Maine DEP, City of Portland, and Portland Water District data
 		on CSO discharges. .......... 
