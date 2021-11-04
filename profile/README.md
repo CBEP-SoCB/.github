@@ -17,9 +17,8 @@ Bay report, such as models that confirm major findings or helped us select final
 models to present.
 
 A more complete archive of the analyses,documenting all data transformations and 
-analyses, is available for review upon request.
-
-
+analyses, is also available for review, but as the location of that archive is in
+flux, we suggest you contact CBEP directly.
 
 ## Repository Contents
 <a name="Contents"></a>
@@ -43,7 +42,7 @@ repositories.
 *  A4	Combined Sewer Overflows  
     *  Maine DEP, City of Portland, and Portland Water District data
 		on CSO discharges. .......... 
-		[Casco_Bay_CSOs](https://github.com/ccb60/Casco_Bay_CSOs)  
+		[Casco_Bay_CSOs](https://github.com/CBEP-SoCB/Casco_Bay_CSOs_sum)  
 *  A5 	Inland Water Quality  
     *  Accessing Maine Department of Environmental Protection (DEP)
 	   biomonitoring data over the internet .......... 
@@ -54,7 +53,7 @@ repositories.
 	   [Impaired_waters](https://github.com/ccb60/Impaired_waters)	 
     *  Water Quality in Casco Bay Watershed Lakes ..........
 	   [Lake_Water_Quality](https://github.com/ccb60/Lake_Water_Quality)  
-	*  Representing data from Portland Water District's Lake 
+    *  Representing data from Portland Water District's Lake 
 	   Vulnerability Index. .......... 
 	   [PWD_Lake_WQ_Index](https://github.com/ccb60/PWD_Lake_WQ_Index)
     *  Geographic Information on Maine Lakes. ..........
@@ -69,7 +68,7 @@ repositories.
 	   tide gage and forcasts of future tidal flooding frequencies. .......... 
 	   [Portland-SLR](https://github.com/ccb60/Portland-SLR)  
 *  A7	Invasive Species 
-    *  Preliminary review of MIMIC data on prevalence of selected invasive
+    *  Review of MIMIC data on prevalence of selected invasive
 	   marine invertebrates in Casco Bay. .......... 
 	   [CB_Invasives](https://github.com/ccb60/CB_Invasives)
 ### B. CONDITION OF THE BAY; "HOW IS THE BAY DOING?"	
@@ -129,12 +128,15 @@ repositories.
 *  Small package to facilitate use of maximum likelihood estimates of 
    (unobserved) left censored values in left censored data, such as
    observations of concentrations of contaminants or bacteria.
-   ..........  [LCensMeans](https://github.com/ccb60//LCensMeans)
-*  Utility package to facilitate uniformaty in graphic design for 
-   the 2020 **State of Casco Bay** report.  Defines a default
-   graphic style, and six preferred colors.  ..........  [CBEP_graphics](https://github.com/ccb60//CBEP_graphics)
-   
-   
+   ..........  [LCensMeans](https://github.com/CBEP-SoCB/LCensMeans)
+*  Utility package to facilitate uniformity in graphic design for 
+   the 2020-2021 **State of Casco Bay** report.  Defines a default
+   graphic style, fonts and six preferred colors.  ..........  
+   [CBEP_graphics](https://github.com/ccbCBEP-SoCB60/CBEP_graphics)
+*  Package to generate several varieties of ggplot style graphics from depth 
+   profile data, including interpolated two dimensional depth by time or
+   depth by location color plots. [tdggraph](https://github.com/ccbCBEP-SoCB60/tdggraph)
+
 ## About Casco Bay and Casco Bay Estuary Partnership
 Casco Bay Estuary Partnership (CBEP) is one of twenty eight National Estuary
 Programs.  Each National Estuary Program is a locally led, non-regulatory,
@@ -147,7 +149,7 @@ local businesses and private citizens on behalf of Casco Bay, a coastal
 embayment in southern Maine.
 
 You can find more information about CBEP on our 
-[web site](http://cascobayestuary.org).
+[web site](https://www.cascobayestuary.org).
 
 Casco Bay is approximately 160 square miles in size, dotted with hundreds of
 islands. The roughly 980 square mile watershed is long and narrow, extending as
@@ -169,10 +171,10 @@ substantially higher for our island and peninsula communities.
 
 Casco Bay supports a robust lobster fishery, substantial clam harvests, a
 growing aquaculture industry(principally blue mussels, american oyster, and
-sugar kelp). Portland harbor handles both container ships and oil tankers.
+sugar kelp). Portland Harbor handles both container ships and oil tankers.
 Land-based businesses on the waterfront support Maine's fishing industry, but
 also support a burgeoning restaurant scene.  In fact, tourism (including
-restuarants, lodging, cruise ships, tour operations, etc., but omitting property
+restuarants, lodging, cruise ships, tour operations, etc. (but omitting property
 rentals and real estate) represents close to three quarters of all
 marine-related economic activity of the region.
 
