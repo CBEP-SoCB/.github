@@ -19,8 +19,6 @@ models to present.
 A more complete archive of the analyses,documenting all data transformations and 
 analyses, is available for review upon request.
 
-
-
 ## Repository Contents
 <a name="Contents"></a>
 ## State of Casco Bay 2020/2021
@@ -35,8 +33,9 @@ repositories.
     *  Population / Census  
 	*  Land Use  
 *  A3	Stormwater  
-    *  Ten years of water quality monitoting data from Long Creek, 
-	  provided by the Long Creek Watershed Management District. .......... [LCWMD_Monitoring](https://github.com/ccb60/LCWMD_Monitoring)
+    *  Ten years of water quality monitoring data from Long Creek, 
+	  provided by the Long Creek Watershed Management District. .......... 
+	  [LCWMD_Monitoring](LCWMD_Monitoring_sum)
     *  Geospatial data on locations of areas formally included in the
        "Municipal Seperate Storm Sewer System" or MS4 program. .......... 
 	   [MS4-Regulated_Areas](https://github.com/ccb60/MS4-Regulated_Areas)  
