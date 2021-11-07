@@ -106,7 +106,7 @@ repositories.
 	intertidal sediments. .......... 
 	[BPC_Pesticides](https://github.com/ccb60//BPC_Pesticides)  
 
-### C. HUMAN CONNECTIONS; "WHY DO WE CARE?"	  
+### C. HUMAN CONNECTIONS; "WHAT ARE WE DOING?"	  
 *  C16	Conserved Lands  
 *  C17	Coastal Habitats  
 *  C18	Economics  
