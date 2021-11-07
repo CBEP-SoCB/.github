@@ -39,7 +39,7 @@ repositories.
 	  [LCWMD_Monitoring_sum](https://github.com/CBEP-SoCB/LCWMD_Monitoring_sum)
     *  Geospatial data on locations of areas formally included in the
        "Municipal Seperate Storm Sewer System" or MS4 program. .......... 
-	   [MS4-Regulated_Areas_sum](https://github.com/CBEP-SoCB/MS4_Regulated_Areas_sum)  
+	   [MS4-Regulated_Areas_sum](https://github.com/CBEP-SoCB/https://github.com/CBEP-SoCB/MS4_Regulated_Areas_sum)  
 *  A4	Combined Sewer Overflows  
     *  Maine DEP, City of Portland, and Portland Water District data
 		on CSO discharges. .......... 
