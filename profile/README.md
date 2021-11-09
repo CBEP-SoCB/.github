@@ -51,9 +51,9 @@ repositories.
 	   [Lake_Water_Quality_sum](https://github.com/CBEP-SoCB/Lake_Water_Quality_sum)  
     *  Redrafting graphics based on Portland Water District's Lake 
 	   Vulnerability Index. .......... 
-	   [PWD_Lake_WQ_Index](https://github.com/CBEP-SoCB/PWD_Lake_WQ_Index_sum)
+	   [PWD_Lake_WQ_Index_sum](https://github.com/CBEP-SoCB/PWD_Lake_WQ_Index_sum)
     *  Water quality data from the Presumpscot Watershed ..........
-	   [Presumpscot_Water_Quality](https://github.com/ccb60/Presumpscot_WQ)  
+	   [Presumpscot_Water_Quality_sum](https://github.com/CBEP-SoCB/Presumpscot_WQ_sum)  
 *  E.	Climate Change  
     *  Analysis of eight decades of weather data from the Portland Jetport.
 	   Data accessed through NOAA online data APIs.  ..........
