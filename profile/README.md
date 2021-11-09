@@ -29,56 +29,51 @@ repositories are built around the data sources (with some variation).
 The following section provides a cross-walk from topics to specific
 repositories.
 
-### A. DRIVERS AND STRESSORS; "WHAT'S AFFECTING THE BAY?"  
-*  A1	Population and Land Use  
+### DRIVERS AND STRESSORS; "What's Affecting the Bay?"  
+*  A.	Population and Land Use  
     *  Population / Census  
 	*  Land Use  
-*  A3	Stormwater  
+*  B.	Stormwater  
     *  Ten years of water quality monitoring data from Long Creek, 
 	  provided by the Long Creek Watershed Management District. .......... 
 	    [LCWMD_Monitoring_sum](https://github.com/CBEP-SoCB/LCWMD_Monitoring_sum)
     *  Geospatial data on locations of areas formally included in the
        "Municipal Seperate Storm Sewer System" or MS4 program. .......... 
 	   [MS4-Regulated_Areas_sum](https://github.com/CBEP-SoCB/MS4_Regulated_Areas_sum)  
-*  A4	Combined Sewer Overflows  
+*  C.	Combined Sewer Overflows  
     *  Maine DEP, City of Portland, and Portland Water District data
 	    on CSO discharges. .......... 
      [Casco_Bay_CSOs_sum](https://github.com/CBEP-SoCB/Casco_Bay_CSOs_sum)  
-*  A5 	Inland Water Quality  
+*  D. 	Inland Water Quality  
     *  Analyzing DEP Stream Invertebrate biomonitoring data. .......... 
 	   [Biomonitoring_sum](https://github.com/CBEP-SoCB/Biomonitoring_sum) 
     *  Maine DEP geospatial information on impaired waters.......... 
-	   [Impaired_waters](https://github.com/ccb60/Impaired_waters)	 
-    *  Water Quality in Casco Bay Watershed Lakes ..........
 	   [Lake_Water_Quality](https://github.com/ccb60/Lake_Water_Quality)  
     *  Representing data from Portland Water District's Lake 
 	   Vulnerability Index. .......... 
 	   [PWD_Lake_WQ_Index](https://github.com/ccb60/PWD_Lake_WQ_Index)
     *  Geographic Information on Maine Lakes. ..........
-	   [Maine_Lakes_MIDAS](https://github.com/ccb60/Maine_Lakes_MIDAS)  
-    *  Presumpscot River Water Quality Monitoring Data. ..........
 	   [Presumpscot_Water_Quality](https://github.com/ccb60/Presumpscot_WQ)  
-*  A6	Climate Change  
+*  E.	Climate Change  
     *  Analysis of eight decades of weather data from the Portland Jetport.
 	   Data accessed through NOAA online data APIs.  ..........
 	   [CDO-Portland-Jetport](https://github.com/ccb60/CDO-Portland-Jetport)  
 	*  Analysis of nearly a century of sea levels at the Portland
 	   tide gage and forcasts of future tidal flooding frequencies. .......... 
 	   [Portland-SLR](https://github.com/ccb60/Portland-SLR)  
-*  A7	Invasive Species 
+*  F.	Invasive Species 
     *  Review of MIMIC data on prevalence of selected invasive
 	   marine invertebrates in Casco Bay. .......... 
 	   [CB_Invasives](https://github.com/ccb60/CB_Invasives)
 
-### B. CONDITION OF THE BAY; "HOW IS THE BAY DOING?"	
-*  B8	Bay Water Quality  
+### CONDITION OF THE BAY; "How is the Bay doing?"	
+*  G.	Bay Water Quality  
     * Friends of Casco Bay (FOCB) water quality monitoting data .......... 
 	[FOCB_Data](https://github.com/ccb60/FOCB_Data)  
-*  B9	Nutrients  
-*  B10	Aquatic Connectivity  
-*  B11	Eelgrass  
-*  B12	Living Resources  
-*  B13	Coastal Acidification  
+*  H.	Nutrients  
+*  I.	Aquatic Connectivity  
+*  J.	Eelgrass  
+*  K.	Coastal Acidification  
     * Analysis of data collected by UNH, on behalf of CBEP, measuring
 	OA-related parameters at the Southern Maine Community College pier,
 	in South Portland.  .......... 
@@ -87,13 +82,13 @@ repositories.
 	data that pertians to ocean acidification.  Data is from data loggers
 	deployed off Chebeague Island. .......... 
 	[FOCB_OA](https://github.com/ccb60//FOCB_OA)  
-*  B14	Swimming Beaches and Shellfish Beds  
+*  L.	Swimming Beaches and Shellfish Beds  
     *  Maine Department of Marine Resources (DMR) data on bacteria in
 	shellfish. .......... 
 	[Shellfish_Bacteria](https://github.com/ccb60//Shellfish_Bacteria)  
 	*  Maine Beaches Program data on bacteria at monitored beaches. ..........  
 	[Beaches_Bacteria](https://github.com/ccb60//Beaches_Bacteria)  
-*  B15	Toxics  
+*  M.	Toxics  
     * CBEP historical data on toxics in Casco Bay Sediments. .......... 
 	[CBEP_Sediments](https://github.com/ccb60//CBEP_Sediments)  
 	* Maine Surface Water Ambient Toxics (SWAT) data on toxic
@@ -106,16 +101,16 @@ repositories.
 	intertidal sediments. .......... 
 	[BPC_Pesticides](https://github.com/ccb60//BPC_Pesticides)  
 
-### C. HUMAN CONNECTIONS; "WHAT ARE WE DOING?"	  
-*  C16	Conserved Lands  
-*  C17	Coastal Habitats  
-*  C18	Economics  
+### HUMAN CONNECTIONS; "What's Being Done?"	  
+*  N.	Conserved Lands  
+*  O.	Coastal Habitats  
+*  P.	Economics  
     *  Analysis of recent data on number of cruise ships and cruise ship
 	visitors visiting Portland, Maine. .......... 
 	[PortlandCruiseShips](https://github.com/ccb60//PortlandCruiseShips)  
-*  C19	Education  
-*  C20	Stewardship  
-*  C21	Climate Preparedness  
+*  Q.	Education  
+*  R.	Stewardship  
+*  S.	Climate Preparedness  
 
 ### General Data Sources and Information
 *  Watershed Boundary
