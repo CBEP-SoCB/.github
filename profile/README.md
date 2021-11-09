@@ -48,11 +48,11 @@ repositories.
     *  Analyzing DEP Stream Invertebrate biomonitoring data. .......... 
 	   [Biomonitoring_sum](https://github.com/CBEP-SoCB/Biomonitoring_sum) 
     *  Maine DEP geospatial information on impaired waters.......... 
-	   [Lake_Water_Quality](https://github.com/ccb60/Lake_Water_Quality)  
-    *  Representing data from Portland Water District's Lake 
+	   [Lake_Water_Quality_sum](https://github.com/CBEP-SoCB/Lake_Water_Quality_sum)  
+    *  Redrafting graphics based on Portland Water District's Lake 
 	   Vulnerability Index. .......... 
 	   [PWD_Lake_WQ_Index](https://github.com/ccb60/PWD_Lake_WQ_Index)
-    *  Geographic Information on Maine Lakes. ..........
+    *  Water quality data from the Presumpscot Watershed ..........
 	   [Presumpscot_Water_Quality](https://github.com/ccb60/Presumpscot_WQ)  
 *  E.	Climate Change  
     *  Analysis of eight decades of weather data from the Portland Jetport.
@@ -105,18 +105,12 @@ repositories.
 *  N.	Conserved Lands  
 *  O.	Coastal Habitats  
 *  P.	Economics  
-    *  Analysis of recent data on number of cruise ships and cruise ship
-	visitors visiting Portland, Maine. .......... 
+    *  Analysis of recent (pre-pandemic) data on number of cruise ships and 
+    cruise ship visitors visiting Portland, Maine. .......... 
 	[PortlandCruiseShips](https://github.com/ccb60//PortlandCruiseShips)  
 *  Q.	Education  
 *  R.	Stewardship  
 *  S.	Climate Preparedness  
-
-### General Data Sources and Information
-*  Watershed Boundary
-*  Impervious Cover
-*  NHD hydrography
-*  Others
 
 ### Reuseable Code and Utilities
 *  Small package to facilitate use of maximum likelihood estimates of 
@@ -130,6 +124,13 @@ repositories.
 *  Package to generate several varieties of ggplot style graphics from depth 
    profile data, including interpolated two dimensional depth by time or
    depth by location color plots. [tdggraph](https://github.com/ccbCBEP-SoCB60/tdggraph)
+
+### General Data Sources and Information
+*  Watershed Boundary
+*  Impervious Cover
+*  NHD hydrography
+*  Others
+
 
 ## About Casco Bay and Casco Bay Estuary Partnership
 Casco Bay Estuary Partnership (CBEP) is one of twenty eight National Estuary
