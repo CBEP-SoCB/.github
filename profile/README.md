@@ -52,14 +52,14 @@ repositories.
     *  Redrafting graphics based on Portland Water District's Lake 
 	   Vulnerability Index. .......... 
 	   [PWD_Lake_WQ_Index_sum](https://github.com/CBEP-SoCB/PWD_Lake_WQ_Index_sum)
-    *  Water quality data from the Presumpscot Watershed ..........
+    *  Water quality data from the Presumpscot Watershed. ..........
 	   [Presumpscot_Water_Quality_sum](https://github.com/CBEP-SoCB/Presumpscot_WQ_sum)  
 *  E.	Climate Change  
     *  Analysis of eight decades of weather data from the Portland Jetport.
 	   Data accessed through NOAA online data APIs.  ..........
-	   [CDO-Portland-Jetport](https://github.com/ccb60/CDO-Portland-Jetport)  
+	   [CDO-Portland-Jetport_sum](https://github.com/CBEP-SoCB/CDO-Portland-Jetport_sum)  
 	*  Analysis of nearly a century of sea levels at the Portland
-	   tide gage and forcasts of future tidal flooding frequencies. .......... 
+	   tide gauge and forcasts of future tidal flooding frequencies. .......... 
 	   [Portland-SLR](https://github.com/ccb60/Portland-SLR)  
 *  F.	Invasive Species 
     *  Review of MIMIC data on prevalence of selected invasive
@@ -68,7 +68,7 @@ repositories.
 
 ### CONDITION OF THE BAY; "How is the Bay doing?"	
 *  G.	Bay Water Quality  
-    * Friends of Casco Bay (FOCB) water quality monitoting data .......... 
+    * Friends of Casco Bay (FOCB) water quality monitoring data. .......... 
 	[FOCB_Data](https://github.com/ccb60/FOCB_Data)  
 *  H.	Nutrients  
 *  I.	Aquatic Connectivity  
