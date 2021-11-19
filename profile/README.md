@@ -60,7 +60,7 @@ repositories.
 	   [CDO-Portland-Jetport_sum](https://github.com/CBEP-SoCB/CDO-Portland-Jetport_sum)  
 	*  Analysis of nearly a century of sea levels at the Portland
 	   tide gauge and forcasts of future tidal flooding frequencies. .......... 
-	   [Portland-SLR](https://github.com/ccb60/Portland-SLR)  
+	   [Portland-SLR_sum](https://github.com/CBEP-SoCB/Portland_SLR_sum)  
 *  F.	Invasive Species 
     *  Review of MIMIC data on prevalence of selected invasive
 	   marine invertebrates in Casco Bay. .......... 
