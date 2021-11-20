@@ -64,7 +64,7 @@ repositories.
 *  F.	Invasive Species 
     *  Review of MIMIC data on prevalence of selected invasive
 	   marine invertebrates in Casco Bay. .......... 
-	   [CB_Invasives](https://github.com/ccb60/CB_Invasives)
+	   [CB_Invasives_sum](https://github.com/CBEP-SoCB/CB_Invasives_sum)
 
 ### CONDITION OF THE BAY; "How is the Bay doing?"	
 *  G.	Bay Water Quality  
@@ -119,7 +119,7 @@ repositories.
    ..........  [LCensMeans](https://github.com/CBEP-SoCB/LCensMeans)
 *  Utility package to facilitate uniformity in graphic design for 
    the 2020-2021 **State of Casco Bay** report.  Defines a default
-   graphic style, fonts and six preferred colors.  ..........  
+   graphic style, fonts and six preferred colors.  ..........
    [CBEP_graphics](https://github.com/ccbCBEP-SoCB60/CBEP_graphics)
 *  Package to generate several varieties of ggplot style graphics from depth 
    profile data, including interpolated two dimensional depth by time or
@@ -130,7 +130,6 @@ repositories.
 *  Impervious Cover
 *  NHD hydrography
 *  Others
-
 
 ## About Casco Bay and Casco Bay Estuary Partnership
 Casco Bay Estuary Partnership (CBEP) is one of twenty eight National Estuary
