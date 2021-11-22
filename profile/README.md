@@ -69,7 +69,10 @@ repositories.
 ### CONDITION OF THE BAY; "How is the Bay doing?"	
 *  G.	Bay Water Quality  
     * Friends of Casco Bay (FOCB) water quality monitoring data. .......... 
-	[FOCB_Data](https://github.com/ccb60/FOCB_Data)  
+  	[FOCB_Data](https://github.com/CBEP-SoCB/FOCB_WQ_sum)  
+	  * Bay Stratification -- Analysis of stratification in several Casco Bay
+	  subestuaries. .......... 
+	  [Bay_Stratification](https://github.com/ccb60/Bay_Stratification)
 *  H.	Nutrients  
 *  I.	Aquatic Connectivity  
 *  J.	Eelgrass  
