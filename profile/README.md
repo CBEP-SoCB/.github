@@ -115,7 +115,7 @@ repositories.
 *  R.	Stewardship  
 *  S.	Climate Preparedness  
 
-### Reuseable Code and Utilities
+# Reuseable Code and Utilities
 *  Small package to facilitate use of maximum likelihood estimates of 
    (unobserved) left censored values in left censored data, such as
    observations of concentrations of contaminants or bacteria.
@@ -128,7 +128,7 @@ repositories.
    profile data, including interpolated two dimensional depth by time or
    depth by location color plots. [tdggraph](https://github.com/ccbCBEP-SoCB60/tdggraph)
 
-### General Data Sources and Information
+# General Data Sources and Information
 *  Watershed Boundary
 *  Impervious Cover
 *  NHD hydrography
