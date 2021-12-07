@@ -17,8 +17,7 @@ Bay report, such as models that confirm major findings or helped us select final
 models to present.
 
 A more complete archive of the analyses, documenting all data transformations
-and analyses, is also available for review, but as the location of that archive
-is in flux, we suggest you contact CBEP directly.
+and analyses, is also available for review [here](http://github.com/CBEP-SoCB-Details).
 
 ## Repository Contents
 <a name="Contents"></a>
