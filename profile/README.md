@@ -71,37 +71,40 @@ repositories.
   	[FOCB_Data](https://github.com/CBEP-SoCB/FOCB_WQ_sum)  
 	  * Bay Stratification -- Analysis of stratification in several Casco Bay
 	  subestuaries. .......... 
-	  [Bay_Stratification](https://github.com/ccb60/Bay_Stratification)
+	  [Bay_Stratification](https://github.com/CBEP-SoCB/Bay_Stratification_sum)
 *  H.	Nutrients  
+    *  Friends of Casco Bay (FOCB) nutrient-related data. .......... [FOCB_Nutrients_sum]((https://github.com/CBEP-SoCB/FOCB_Nutrients_sum)
+    *  Maine Department of Environmental Protection (DEP) nutrient-related data. .......... [DEP_Nutrients_sum]((https://github.com/CBEP-SoCB/DEP_Nutrients_sum)
+    *  Combined FOCB and DEP nutrient data. .......... [Combined_Nutrients_sum]((https://github.com/CBEP-SoCB/Combined_Nutrients_sum)
 *  I.	Aquatic Connectivity  
 *  J.	Eelgrass  
 *  K.	Coastal Acidification  
     * Analysis of data collected by UNH, on behalf of CBEP, measuring
 	OA-related parameters at the Southern Maine Community College pier,
 	in South Portland.  .......... 
-	[CBEP_OA](https://github.com/ccb60//CBEP_OA)  
+	[CBEP_OA](https://github.com/CBEP-SoCB-Details//CBEP_OA)  
 	* Analysis of a four years of Friends of Casco Bay (FOCB) water quality
 	data that pertians to ocean acidification.  Data is from data loggers
 	deployed off Chebeague Island. .......... 
-	[FOCB_OA](https://github.com/ccb60//FOCB_OA)  
+	[FOCB_OA](https://github.com/CBEP-SoCB-Details//FOCB_OA)  
 *  L.	Swimming Beaches and Shellfish Beds  
     *  Maine Department of Marine Resources (DMR) data on bacteria in
 	shellfish. .......... 
-	[Shellfish_Bacteria](https://github.com/ccb60//Shellfish_Bacteria)  
+	[Shellfish_Bacteria](https://github.com/CBEP-SoCB-Details//Shellfish_Bacteria)  
 	*  Maine Beaches Program data on bacteria at monitored beaches. ..........  
-	[Beaches_Bacteria](https://github.com/ccb60//Beaches_Bacteria)  
+	[Beaches_Bacteria](https://github.com/CBEP-SoCB-Details//Beaches_Bacteria)  
 *  M.	Toxics  
     * CBEP historical data on toxics in Casco Bay Sediments. .......... 
-	[CBEP_Sediments](https://github.com/ccb60//CBEP_Sediments)  
+	[CBEP_Sediments](https://github.com/CBEP-SoCB-Details//CBEP_Sediments)  
 	* Maine Surface Water Ambient Toxics (SWAT) data on toxic
 	contaminants in blue mussels. ..........
-	[SWAT_Mussels](https://github.com/ccb60//SWAT_Mussels)  
+	[SWAT_Mussels](https://github.com/CBEP-SoCB-Details//SWAT_Mussels)  
 	* Portland Harbor Commission data on toxic contaminants in Portland
 	harbor sediments. .......... 
-	[PortlandHarborToxics](https://github.com/ccb60//PortlandHarborToxics)  
+	[PortlandHarborToxics](https://github.com/CBEP-SoCB-Details//PortlandHarborToxics)  
 	* Maine Board of Pesticides Control data on pyrethroid pesticides in
 	intertidal sediments. .......... 
-	[BPC_Pesticides](https://github.com/ccb60//BPC_Pesticides)  
+	[BPC_Pesticides](https://github.com/CBEP-SoCB-Details//BPC_Pesticides)  
 
 ### HUMAN CONNECTIONS; "What's Being Done?"	  
 *  N.	Conserved Lands  
@@ -109,7 +112,7 @@ repositories.
 *  P.	Economics  
     *  Analysis of recent (pre-pandemic) data on number of cruise ships and 
     cruise ship visitors visiting Portland, Maine. .......... 
-	[PortlandCruiseShips](https://github.com/ccb60//PortlandCruiseShips)  
+	[PortlandCruiseShips](https://github.com/CBEP-SoCB-Details//PortlandCruiseShips)  
 *  Q.	Education  
 *  R.	Stewardship  
 *  S.	Climate Preparedness  
