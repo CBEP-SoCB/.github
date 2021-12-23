@@ -74,8 +74,8 @@ repositories.
 	  [Bay_Stratification](https://github.com/CBEP-SoCB/Bay_Stratification_sum)
 *  H.	Nutrients  
     *  Friends of Casco Bay (FOCB) nutrient-related data. .......... [FOCB_Nutrients_sum](https://github.com/CBEP-SoCB/FOCB_Nutrients_sum)
-    *  Maine Department of Environmental Protection (DEP) nutrient-related data. .......... [DEP_Nutrients_sum]((https://github.com/CBEP-SoCB/DEP_Nutrients_sum)
-    *  Combined FOCB and DEP nutrient data. .......... [Combined_Nutrients_sum]((https://github.com/CBEP-SoCB/Combined_Nutrients_sum)
+    *  Maine Department of Environmental Protection (DEP) nutrient-related data. .......... [DEP_Nutrients_sum](https://github.com/CBEP-SoCB/DEP_Nutrients_sum)
+    *  Combined FOCB and DEP nutrient data. .......... [Combined_Nutrients_sum](https://github.com/CBEP-SoCB/Combined_Nutrients_sum)
 *  I.	Aquatic Connectivity  
 *  J.	Eelgrass  
 *  K.	Coastal Acidification  
