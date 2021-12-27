@@ -82,11 +82,11 @@ repositories.
     * Analysis of data collected by UNH, on behalf of CBEP, measuring
 	OA-related parameters at the Southern Maine Community College pier,
 	in South Portland.  .......... 
-	[CBEP_OA](https://github.com/CBEP-SoCB-Details//CBEP_OA)  
+	[CBEP_OA](https://github.com/CBEP-SoCB-/CBEP_OA_sum)  
 	* Analysis of a four years of Friends of Casco Bay (FOCB) water quality
 	data that pertians to ocean acidification.  Data is from data loggers
 	deployed off Chebeague Island. .......... 
-	[FOCB_OA](https://github.com/CBEP-SoCB-Details//FOCB_OA)  
+	[FOCB_OA](https://github.com/CBEP-SoCB-/FOCB_OA_sum)  
 *  L.	Swimming Beaches and Shellfish Beds  
     *  Maine Department of Marine Resources (DMR) data on bacteria in
 	shellfish. .......... 
