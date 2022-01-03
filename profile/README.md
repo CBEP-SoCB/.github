@@ -90,7 +90,7 @@ repositories.
 *  L.	Swimming Beaches and Shellfish Beds  
     *  Maine Department of Marine Resources (DMR) data on bacteria in
 	shellfish. .......... 
-	[Shellfish_Bacteria](https://github.com/CBEP-SoCB-Details//Shellfish_Bacteria)  
+	[Shellfish_Bacteria](https://github.com/CBEP-SoCB//Shellfish_Bacteria_sum)  
 	*  Maine Beaches Program data on bacteria at monitored beaches. ..........  
 	[Beaches_Bacteria_sum](https://github.com/CBEP-SoCB//Beaches_Bacteria_sum)  
 *  M.	Toxics  
