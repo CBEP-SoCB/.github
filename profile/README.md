@@ -68,10 +68,10 @@ repositories.
 ### CONDITION OF THE BAY; "How is the Bay doing?"	
 *  G.	Bay Water Quality  
     * Friends of Casco Bay (FOCB) water quality monitoring data. .......... 
-  	[FOCB_Data](https://github.com/CBEP-SoCB/FOCB_WQ_sum)  
+  	[FOCB_Data_sum](https://github.com/CBEP-SoCB/FOCB_WQ_sum)  
 	  * Bay Stratification -- Analysis of stratification in several Casco Bay
 	  subestuaries. .......... 
-	  [Bay_Stratification](https://github.com/CBEP-SoCB/Bay_Stratification_sum)
+	  [Bay_Stratification_sum](https://github.com/CBEP-SoCB/Bay_Stratification_sum)
 *  H.	Nutrients  
     *  Friends of Casco Bay (FOCB) nutrient-related data. .......... [FOCB_Nutrients_sum](https://github.com/CBEP-SoCB/FOCB_Nutrients_sum)
     *  Maine Department of Environmental Protection (DEP) nutrient-related data. .......... [DEP_Nutrients_sum](https://github.com/CBEP-SoCB/DEP_Nutrients_sum)
