@@ -95,7 +95,7 @@ repositories.
 	[Beaches_Bacteria_sum](https://github.com/CBEP-SoCB//Beaches_Bacteria_sum)  
 *  M.	Toxics  
     * CBEP historical data on toxics in Casco Bay Sediments. .......... 
-	[CBEP_Sediments_sum](https://github.com/CBEP-SoCB//CBEP_Sediments_sum)  
+	[CBEP_Sediment_sum](https://github.com/CBEP-SoCB//CBEP_Sediment_sum)  
 	* Maine Surface Water Ambient Toxics (SWAT) data on toxic
 	contaminants in blue mussels. ..........
 	[SWAT_Mussels](https://github.com/CBEP-SoCB-Details//SWAT_Mussels)  
