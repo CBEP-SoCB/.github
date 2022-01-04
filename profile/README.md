@@ -90,7 +90,7 @@ repositories.
 *  L.	Swimming Beaches and Shellfish Beds  
     *  Maine Department of Marine Resources (DMR) data on bacteria in
 	shellfish. .......... 
-	[Shellfish_Bacteria](https://github.com/CBEP-SoCB//Shellfish_Bacteria_sum)  
+	[Shellfish_Bacteria_sum](https://github.com/CBEP-SoCB//Shellfish_Bacteria_sum)  
 	*  Maine Beaches Program data on bacteria at monitored beaches. ..........  
 	[Beaches_Bacteria_sum](https://github.com/CBEP-SoCB//Beaches_Bacteria_sum)  
 *  M.	Toxics  
@@ -98,7 +98,7 @@ repositories.
 	[CBEP_Sediment_sum](https://github.com/CBEP-SoCB//CBEP_Sediment_sum)  
 	* Maine Surface Water Ambient Toxics (SWAT) data on toxic
 	contaminants in blue mussels. ..........
-	[SWAT_Mussels](https://github.com/CBEP-SoCB-Details//SWAT_Mussels)  
+	[SWAT_Mussels_sum](https://github.com/CBEP-SoCB//SWAT_Mussels_sum)  
 	* Portland Harbor Commission data on toxic contaminants in Portland
 	harbor sediments. .......... 
 	[PortlandHarborToxics](https://github.com/CBEP-SoCB-Details//PortlandHarborToxics)  
