@@ -101,7 +101,7 @@ repositories.
 	[SWAT_Mussels_sum](https://github.com/CBEP-SoCB//SWAT_Mussels_sum)  
 	* Portland Harbor Commission data on toxic contaminants in Portland
 	harbor sediments. .......... 
-	[PortlandHarborToxics](https://github.com/CBEP-SoCB-Details//PortlandHarborToxics)  
+	[Portland_Harbor_Toxics_sum](https://github.com/CBEP-SoCB//Portland_Harbor_Toxics_sum)  
 	* Maine Board of Pesticides Control data on pyrethroid pesticides in
 	intertidal sediments. .......... 
 	[BPC_Pesticides](https://github.com/CBEP-SoCB-Details//BPC_Pesticides)  
