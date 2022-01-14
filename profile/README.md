@@ -35,7 +35,7 @@ repositories.
 *  B.	Stormwater  
     *  Ten years of water quality monitoring data from Long Creek, 
 	  provided by the Long Creek Watershed Management District. .......... 
-	    [LCWMD_Monitoring_sum](https://github.com/CBEP-SoCB/LCWMD_Monitoring_sum)
+	    [LCWMD_Monitoring_sum](https://github.com//CBEP-SoCB/LCWMD_Monitoring_sum)
     *  Geospatial data on locations of areas formally included in the
        "Municipal Seperate Storm Sewer System" or MS4 program. .......... 
 	   [MS4-Regulated_Areas_sum](https://github.com/CBEP-SoCB/MS4_Regulated_Areas_sum)  
@@ -90,21 +90,21 @@ repositories.
 *  L.	Swimming Beaches and Shellfish Beds  
     *  Maine Department of Marine Resources (DMR) data on bacteria in
 	shellfish. .......... 
-	[Shellfish_Bacteria_sum](https://github.com/CBEP-SoCB//Shellfish_Bacteria_sum)  
+	[Shellfish_Bacteria_sum](https://github.com/CBEP-SoCB/Shellfish_Bacteria_sum)  
 	*  Maine Beaches Program data on bacteria at monitored beaches. ..........  
-	[Beaches_Bacteria_sum](https://github.com/CBEP-SoCB//Beaches_Bacteria_sum)  
+	[Beaches_Bacteria_sum](https://github.com/CBEP-SoCB/Beaches_Bacteria_sum)  
 *  M.	Toxics  
     * CBEP historical data on toxics in Casco Bay Sediments. .......... 
-	[CBEP_Sediment_sum](https://github.com/CBEP-SoCB//CBEP_Sediment_sum)  
+	[CBEP_Sediment_sum](https://github.com//CBEP-SoCB/CBEP_Sediment_sum)  
 	* Maine Surface Water Ambient Toxics (SWAT) data on toxic
 	contaminants in blue mussels. ..........
-	[SWAT_Mussels_sum](https://github.com/CBEP-SoCB//SWAT_Mussels_sum)  
+	[SWAT_Mussels_sum](https://github.com/CBEP-SoCB/SWAT_Mussels_sum)  
 	* Portland Harbor Commission data on toxic contaminants in Portland
 	harbor sediments. .......... 
-	[Portland_Harbor_Toxics_sum](https://github.com/CBEP-SoCB//Portland_Harbor_Toxics_sum)  
+	[Portland_Harbor_Toxics_sum](https://github.com/CBEP-SoCB/Portland_Harbor_Toxics_sum)  
 	* Maine Board of Pesticides Control data on pyrethroid pesticides in
 	intertidal sediments. .......... 
-	[BPC_Pesticides](https://github.com/CBEP-SoCB-Details//BPC_Pesticides)  
+	[BPC_Pesticides_sum](https://github.com/CBEP-SoCB/BPC_Pesticides_sum)  
 
 ### HUMAN CONNECTIONS; "What's Being Done?"	  
 *  N.	Conserved Lands  
@@ -112,7 +112,7 @@ repositories.
 *  P.	Economics  
     *  Analysis of recent (pre-pandemic) data on number of cruise ships and 
     cruise ship visitors visiting Portland, Maine. .......... 
-	[PortlandCruiseShips](https://github.com/CBEP-SoCB-Details//PortlandCruiseShips)  
+	[PortlandCruiseShips](https://github.com/CBEP-SoCB-Details/PortlandCruiseShips)  
 *  Q.	Education  
 *  R.	Stewardship  
 *  S.	Climate Preparedness  
